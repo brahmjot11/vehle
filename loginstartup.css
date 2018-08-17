@@ -1,0 +1,153 @@
+.baby{
+	
+	opacity: 0.5%;
+}
+
+#babes{
+	background-color: black;
+	width:35%;
+	float: left;
+	margin-top: -10px;
+	
+}
+
+p{
+   
+    font-size: 100%;
+	font-family: 'Aldrich', sans-serif;
+	color: black;
+	padding-top: 20px;
+}
+
+.dot{
+	font-size: 50%;
+}
+
+input[type=text]{
+	width: 50%;
+	
+        
+}
+
+input[type=Email]{
+	width:71%;
+    height: 40px;
+    padding-left: 12px;
+	color: black;
+        
+}
+
+.lastname{
+	margin-left: -320px;
+	width:30%;
+
+}
+
+input[placeholder="First name"]{
+     width: 70%; 
+     color: black;
+     
+
+}
+
+input[placeholder="Last name"]{
+     width: 70%;
+     margin-left: -70px;
+     
+     color: black;
+}
+
+input[placeholder="Address"]{
+	width: 71%;
+	
+	color: black;
+}
+
+input[placeholder="City"]{
+	width: 70%;
+	
+	color: black;
+}
+
+input[placeholder="Zip"]{
+	width: 124.5%;
+	margin-left: -70px;
+
+	color: black;
+}
+
+input[placeholder="Phone No"]{
+	width: 70%;
+	margin-top: 20px;
+	
+	color: black;
+}	
+
+.button{
+	height: 5.5%;
+	margin-left: -245px;
+	margin-top: 77px;
+}
+
+.kanika{
+	margin-left: 600px;
+
+}
+
+*[placeholder]{
+	color: white;
+	
+}
+
+
+#inputfirstname{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+}
+
+#inputlastname{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+
+}
+
+#inputCity{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+}
+
+#inputAddress{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+
+}
+
+#inputEmail4{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+
+}
+
+#inputZip{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+
+}
+
+#inputPhone{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+    
+}
+
+
+
+
+

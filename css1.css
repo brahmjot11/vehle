@@ -1,0 +1,84 @@
+.nav-link{
+	/*font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'Architects Daughter', cursive;
+	font-family: 'Covered By Your Grace', cursive;*/
+	/*font-family: 'Rock Salt', cursive;*/
+	/*font-family: 'Gochi Hand', cursive;
+	font-size: 20px;*/
+	font-family: 'Aldrich', sans-serif;
+}
+ #abc{
+
+ 	font-family: 'Aldrich', sans-serif;
+
+ }
+
+ .body{
+
+ 	background-color: rgba(50,50,50,1);
+ }
+
+ .xyz{
+
+ 	font-family: 'Mr Bedfort', cursive;
+ 	font-size: 45px;
+
+ }
+
+.jumbotron{
+
+	margin-top: 40px;
+}
+
+#p1{
+
+	font-family: 'Comfortaa', cursive;
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	color: rgba(0,0,0,.6);
+
+}
+
+#p2{
+
+	font-family: 'Dosis', sans-serif;
+	font-size: 17px;
+	letter-spacing: 1.5px;
+	text-align: center;
+	/*font-family: 'Roboto Mono', monospace;*/
+}
+
+#p3{
+	font-family: 'VT323', monospace;
+	text-align: center;
+	color: rgba(0,0,0,.3);
+	font-size: 25px;
+	letter-spacing: 5px;
+	/*text-shadow: 3px 2px grey;*/
+
+
+
+}
+
+.btn1{
+	
+	margin-top: 20px;
+}
+
+hr{
+
+	width: 33%;
+	align-content: center;
+	/*border-color: rgb(255,0,0);
+	*/
+
+	/*display: block;
+	height: 1px;
+	border: 0;
+	border-top: 1px solid #ccc;
+	margin: 1em 0;
+	padding: 0;*/
+}
+
